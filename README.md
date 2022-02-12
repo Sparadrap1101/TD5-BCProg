@@ -1,11 +1,11 @@
 # ERC20 101
 
 ## Preview
-This is a TD from my engineering school (ESILV, Fintech specialty) which aims to teach us Solidity and improve our development skills.
+This is a training class from my engineering school (ESILV, Fintech specialty) which aims to teach us Solidity and improve our development skills.
 
 Most of the repository files are provided and we need to get as many points as possible in the form of ERC20 tokens. We have to pass exercises in `Evaluator.sol` to get these token points.
 
-The objective of this TD is to create a new ERC20 token and create an ICO with a whitelist.
+The objective of this training class is to create a new ERC20 token and create an ICO with a whitelist.
 The contract I wrote is `MyErc20contract.sol` and the `1_td_deploy.js` migration file.
 
 You can find out my contract in Rinkeby Network at : `0x290e5Da7e464760BEb181BA1b5dC745ec926859F`
